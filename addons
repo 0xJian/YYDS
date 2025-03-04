@@ -1,0 +1,49 @@
+Windows系统edge浏览器插件篇：
+Cookie-Editor
+浏览器更改cookies等等
+
+Ctool 程序开发常用工具
+常见的encode编码解码等等
+
+FindSomething
+BURP HAE的平替很好用！！！经常直接爆出来AK/SK
+
+fofa search
+大体性的看一下用没用CDN，开放了哪些端口
+
+HackBar
+懂得都懂不多解释
+
+IP, DNS & Security Tools | HackerTarget.com
+查IP信息和DNS解析过程，其实不咋用
+
+PostWoman Http接口调试插件
+调试接口，懒得开burp等等，用edge简单测试的话F12没有火狐好用，所以用了这个
+
+ModHeader - Modify HTTP headers
+简单修改HTTP流量头，改JWT什么等等用
+
+Wappalyzer - Technology profiler
+看下网站使用了哪些组件和及技术，还有查看VUE框架什么的，挺方便的
+
+WhatRuns
+查看网站框架，使用的CMS指纹，但是国内不咋好用
+
+二箱
+查看图片全网还在哪个地方被收录，再看某个网站时候里面的广告图可以穿出来不少资产哦
+
+superSearchPlus
+好用是真的好用，但是自从换了mac还是用firefox浏览器多一点
+https://github.com/dark-kingA/superSearchPlus
+
+
+MAC系统FireFox浏览器插件篇：
+X-Forwarded-For Header
+可以绕过很多的IP白名单限制，用xss或者降维打击大法可以直接绕过，还有就是可以欺骗部分waf和cdn
+
+FoxyProxy
+这个代理burp、xray、yakit不用多说
+
+Trufflehog
+国外人开发的插件，类似findsomething，可以默认查看env界面，可以自动弹窗js中存在的API key
+其他和edge里面的差不多
